@@ -1,5 +1,6 @@
-// This is the first name  of the user
 //CHALLENGE 1
+// This is the first name  of the user
+
 const user='John';
 
 /**
@@ -8,6 +9,9 @@ const user='John';
 const surname='Smith';
 
 console.log(user , surname);
+
+// CHALLENGE2
+
 // (c) ACME Inc. 2010 */
 
 /**
@@ -18,6 +22,7 @@ const date='10/07/2014';
 
 console.log(date);
 
+//CHALLENGE3
 
 /*
 It is important to show the following message in order to:
@@ -25,6 +30,7 @@ It is important to show the following message in order to:
 - to scare hackers
 - to impress investors
 */
+
 
 console.warn("Security scan Starting");
 
